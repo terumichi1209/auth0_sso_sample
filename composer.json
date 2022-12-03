@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": "^8.0",
+        "ext-zlib": "*",
+        "auth0/login": "7.3.0",
+        "guzzlehttp/guzzle": "7.5",
+        "guzzlehttp/psr7": "2.4.3",
+        "auth0/auth0-php": "^8.3",
+        "steampixel/simple-php-router": "^0.7.1"
+    }
+}
